@@ -29,4 +29,6 @@ export const createTodo = async (req, res) => {
 }
 
 
-export const deleteTodo
+export const updateTodo = async (req, res) => {
+  
+}
